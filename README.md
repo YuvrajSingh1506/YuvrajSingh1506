@@ -53,7 +53,7 @@ MERN Stack Developer | MCA Student @ NIT Jamshedpur | Exploring GenAI
 ## 📫 How to reach me
 
 - GitHub: [github.com/YuvrajSingh1506](https://github.com/YuvrajSingh1506)
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yuvraj-singh-a25760255/)
+- LinkedIn: [https://www.linkedin.com/in/yuvraj-singh-a25760255/](https://www.linkedin.com/in/yuvraj-singh-a25760255/)
 - Email: [yuvrajsinghtech1@gmail.com](mailto:yuvrajsinghtech1@gmail.com)
 
 ---
